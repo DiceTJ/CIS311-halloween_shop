@@ -24,7 +24,7 @@ a {
 
 }
 
-a:link, a:focus {
+a:link, a:visited {
     color: orange;
 
 }
@@ -90,7 +90,16 @@ ul {
 }
 
 /* Footer */
+footer {
+    border-top: 2px solid black;
+    padding: 15px;
+    background-image: linear-gradient(45deg, black 0%, orange 25%, white 100%);
+}
+
+
+
 footer p {
     font-size: 90%;
     text-align: center;
 }
+
