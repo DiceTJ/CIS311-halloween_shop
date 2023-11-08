@@ -132,7 +132,7 @@ aside {
 }
 
 #nav_list ul {
-    width:68.75%
+    width:68.75%;
     list-style: none;
     padding-left: 15%;
 
@@ -282,6 +282,6 @@ footer p {
         font-size: 130%;
     }
     section h1::first-letter {
-        font-size 180%;
+        font-size: 180%;
     }
 }
